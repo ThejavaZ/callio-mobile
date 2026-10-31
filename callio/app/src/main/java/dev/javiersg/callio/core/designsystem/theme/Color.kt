@@ -1,4 +1,4 @@
-package dev.javiersg.callio.ui.theme
+package dev.javiersg.callio.core.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 

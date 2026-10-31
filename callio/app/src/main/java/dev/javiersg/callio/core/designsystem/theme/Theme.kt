@@ -1,6 +1,5 @@
-package dev.javiersg.callio.ui.theme
+package dev.javiersg.callio.core.designsystem.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
